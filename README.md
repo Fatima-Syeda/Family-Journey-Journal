@@ -1,4 +1,4 @@
-# Family Journey Journal
+# Family-Journey-Journal
 A web app to track and visualize your family’s travel adventures.
 
 Features:
